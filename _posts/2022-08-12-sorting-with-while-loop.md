@@ -1,4 +1,10 @@
-## Sorting with while loops
+---
+layout: post
+title:  "Sorting with while loops"
+author: Gaurav
+categories: [ Java ]
+image: assets/images/sorting-with-while-loop/while-loop.png
+---
 While loops help with running code block repeatedly over a condition
 until failure of the condition. Sorting algorithms need to perform repeated
 comparisons and swapping operations over certain conditions and sometimes
